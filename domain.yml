@@ -26,5 +26,3 @@ responses:
   - text: I am a bot, powered by Rasa.
   utter_anything_else:
   - text: Is there anything else I can help you with?
-  utter_utter_ask_budget:
-  - text: What's your annual budget for conversational AI? 💸

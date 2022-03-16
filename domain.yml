@@ -28,3 +28,8 @@ responses:
   - text: I am a bot, powered by Rasa.
   utter_anything_else:
   - text: Is there anything else I can help you with?
+  utter_utter_already_subscribed:
+  - buttons:
+    - payload: ''
+      title: Subscribe
+    text: Looks you are already subscribed - good choice! If you haven't received a newsletter in a while, maybe check your spam folder 🗑

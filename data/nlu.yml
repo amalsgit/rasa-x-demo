@@ -80,6 +80,7 @@ nlu:
     - so saad
     - so sad
     - cheer me up
+    - not goof
 - intent: bot_challenge
   examples: |
     - are you a bot?

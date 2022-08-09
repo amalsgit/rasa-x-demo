@@ -38,7 +38,6 @@ nlu:
     - correct
 - intent: deny
   examples: |
-    - no
     - n
     - never
     - I don't think so
@@ -88,3 +87,6 @@ nlu:
     - am I talking to a bot?
     - am I talking to a human?
     - i am from kerala
+- intent: enter_data
+  examples: |
+    - no

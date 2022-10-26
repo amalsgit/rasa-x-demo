@@ -88,3 +88,6 @@ nlu:
     - am I talking to a bot?
     - am I talking to a human?
     - i am from kerala
+- intent: how_to_get_started
+  examples: |
+    - how to get started with rasa
